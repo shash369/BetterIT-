@@ -1,3 +1,6 @@
+/**
+/NOTE:change the path according to the path
+ */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

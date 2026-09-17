@@ -8,7 +8,7 @@ export default function info() {
       <Text className='font-bold text-orange-300 '>info page is here</Text>
 
       <Pressable  onPress={()=>router.back()}>
-        <Text>click me to go back to home paage</Text>
+        <Text>click me to go back to home page</Text>
       </Pressable>
     </View>
   )
